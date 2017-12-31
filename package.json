@@ -1,7 +1,7 @@
 {
-  "name": "future-cookie",
+  "name": "react-express-boilerplate",
   "version": "1.0.0",
-  "description": "a concept project to exemplify design and development in React, Redux and other tools",
+  "description": "a starter project in React (using Webpack) with an ExpressJS server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
